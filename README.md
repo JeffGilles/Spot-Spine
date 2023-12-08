@@ -6,4 +6,4 @@ Spine detection and spine heads segmentation use algorithms from the plugin [3D 
 
 Spine necks tracing uses algorithms from the plugin [SNT](https://imagej.net/plugins/snt/).
 
-![alt]("https://github.com/JeffGilles/Spot-Spine/blob/master/spot-spine1.png")
+![plot]("https://github.com/JeffGilles/Spot-Spine/blob/master/spot-spine1.png")
